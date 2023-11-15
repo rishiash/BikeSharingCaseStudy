@@ -1,5 +1,5 @@
 # Bicycle Case Study
-> A multiple linear regression model has been built to determine the demand for shared bikes
+> A multiple linear regression model has been built to determine the demand for shared bikes.
 
 
 ## Table of Contents
